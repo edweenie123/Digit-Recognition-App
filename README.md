@@ -7,6 +7,7 @@ A handwritten digit recognizer trained on 5000 training examples from the MNIST 
 Here is an image of a neural network:
 
 <img src="https://user-images.githubusercontent.com/25446747/43425516-357c060a-9429-11e8-9567-46dd2fc00de6.PNG" alt="Neural Network Image" width="500" height="500">
+(Img source: 3blue1brown)
 
 ## Neural Networks
 
@@ -19,7 +20,7 @@ Here is an image of a neural network:
 Here is what my modified MNIST training set looks like:
 
 <img src="https://user-images.githubusercontent.com/25446747/43425949-87f83a60-942a-11e8-83c7-35c106a5b6c6.png" alt="input" width="300" height="300">
-(Img source: 3blue1brown)
+
 Here is what the final trained weights will look like if you convert them back to image format:
 
 <img src="https://user-images.githubusercontent.com/25446747/43426025-ccd3af16-942a-11e8-8544-c38c44b599e1.png" alt="visualizing weights" width="300" height="300">
